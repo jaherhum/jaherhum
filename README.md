@@ -4,7 +4,7 @@
     <img src="assets/line.svg" />
 </div>
 
-## About me
+### About me
 
 I'm José, a web developer with a degree in Web Application Development (Grado Superior DAW). I'm currently freelancing and building my own self-hosted infrastructure. 
 
