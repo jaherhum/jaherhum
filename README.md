@@ -17,12 +17,15 @@ My goal is keeping my data as private as possible and de-Googling my digital lif
 ### Stack
 
 **Backend**
+
 ![Python](https://img.shields.io/badge/Python-64748B?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-64748B?style=flat-square&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-64748B?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-64748B?style=flat-square&logo=postgresql&logoColor=white)
 
 **QA / Testing**
+
 ![Cypress](https://img.shields.io/badge/Cypress-64748B?style=flat-square&logo=cypress&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-64748B?style=flat-square&logo=jira&logoColor=white)
 
 **Systems / Infra**
+
 ![Linux](https://img.shields.io/badge/Linux-64748B?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-64748B?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-64748B?style=flat-square&logo=proxmox&logoColor=white)
 
 <div align="center">
