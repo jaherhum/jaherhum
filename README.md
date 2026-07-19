@@ -5,6 +5,7 @@
 </div>
 
 ## About me
+
 I'm José, a web developer with a degree in Web Application Development (Grado Superior DAW). I'm currently freelancing and building my own self-hosted infrastructure. 
 
 My goal is keeping my data as private as possible and de-Googling my digital life.
@@ -29,6 +30,7 @@ My goal is keeping my data as private as possible and de-Googling my digital lif
 </div>
 
 ### Homelab
+
 I currently run a Proxmox instance on an N150 + 16GB DDR4 mini PC.
 Everything runs behind a Caddy reverse proxy under `jaherhum.dev`.
 
@@ -37,6 +39,7 @@ Everything runs behind a Caddy reverse proxy under `jaherhum.dev`.
 </div>
 
 ### Contact
+
 [![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jaherhum.dev)
 [![Telegram](https://img.shields.io/badge/Telegram-0f172a?style=flat-square&logo=telegram&logoColor=white)](https://t.me/jaherhum)
 
@@ -45,4 +48,5 @@ Everything runs behind a Caddy reverse proxy under `jaherhum.dev`.
 </div>
 
 ### Support
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-0f172a?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/jaherhum)
+
+[![Ko-fi](assets/kofi-button.svg)](https://ko-fi.com/jaherhum)
