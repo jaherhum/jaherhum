@@ -34,7 +34,7 @@ My goal is keeping my data as private as possible and de-Googling my digital lif
 
 ### Homelab
 
-I currently run a Proxmox instance on an N150 + 16GB DDR4 mini PC.
+I currently run a Proxmox instance on an Ryzen 5 7430U + 32GB DDR4 mini PC.
 Everything runs behind a Caddy reverse proxy under `jaherhum.dev`.
 
 <div align="center">
